@@ -7,7 +7,7 @@
 <br />
 <div align="center">
 
-<p align="center"> <img width="110" height="30" src="https://komarev.com/ghpvc/?username=horrorhusbands&label=bloodsplatters%20&color=490000&style=flat"
+<p align="center"> <img width="100" height="25" src="https://komarev.com/ghpvc/?username=horrorhusbands&label=bones%20&color=490000&style=flat"
 alt="horrorhusbands" /p
 
 </div>
